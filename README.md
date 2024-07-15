@@ -6,7 +6,7 @@ It serves as a foundation for more extensive applications.
 
 <br>
 
-
+<hr>
 
 Key Features 🔍
 Responsive Design: Provides a consistent user experience across various devices with a mobile-friendly layout.
