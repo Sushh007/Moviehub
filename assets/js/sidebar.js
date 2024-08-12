@@ -31,7 +31,7 @@ export function sidebar() {
 
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=hi", "Hindi")'>Hindi</a>
         
-        <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=bn", "Marathi")'>Marathi</a>
+        <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=mr", "Marathi")'>Marathi</a>
 
       </div>
       <div class="sidebar-footer">
