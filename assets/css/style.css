@@ -458,7 +458,7 @@ body {
 .sidebar-inner {
   display: grid;
   gap: 20px;
-  padding-block: 36px;
+  padding-block: 3rem;
 }
 
 .sidebar::-webkit-scrollbar-thumb {
