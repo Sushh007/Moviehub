@@ -1,4 +1,4 @@
-# Hdhubmovies
+# Movies4u
 
 About this Repository 🚀
 Hdhubmovies is a responsive web app crafted with Vanilla JS, utilizing the TMDB API to fetch and display detailed movie information. 
