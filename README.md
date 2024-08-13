@@ -12,3 +12,5 @@ Key Features 🔍
 Responsive Design: Provides a consistent user experience across various devices with a mobile-friendly layout.
 Intuitive Search: Effortlessly find movies with a search feature that offers key details like cast, synopsis, and ratings.
 Genre-Based Recommendations: Discover movies based on your favorite genres, offering personalized suggestions to enhance your viewing experience.
+
+Here! is the overview of the Project
